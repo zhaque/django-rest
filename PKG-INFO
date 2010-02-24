@@ -1,10 +1,7 @@
 Metadata-Version: 1.0
-Name: Djangorestmodel
-Version: 0.3
+Name: django-rest 
+Version: 0.4
 Summary: XML backed models queried from external REST apis
 Home-page: http://djangorestmodel.sourceforge.net/
 Author: Chris Tarttelin and Cam McHugh
 Author-email: ctarttelin@point2.com
-License: UNKNOWN
-Description: UNKNOWN
-Platform: UNKNOWN
